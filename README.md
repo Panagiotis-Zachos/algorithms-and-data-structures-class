@@ -1,4 +1,4 @@
-# algorithms-and-data-structures-class
+# Algorithms-and-Data-structures-Class
 Programms written as answers to the Algorigthms and Data Structures class, exercises
 
 Binary_Search_Tree.py: A solution to the Runway Reservation System problem, where a plane makes a request for landing at a specific time and the airport replies affirmatively if there is no other landing scheduled at this time +-3 mins (specific to this programm). 
